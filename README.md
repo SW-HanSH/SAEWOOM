@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JSMpeg – MPEG1 Video & MP2 Audio Decoder in JavaScript
 
 JSMpeg is a Video Player written in JavaScript. It consists of an MPEG-TS demuxer, MPEG1 video & MP2 audio decoders, WebGL & Canvas2D renderers and WebAudio sound output. JSMpeg can load static videos via Ajax and allows low latency streaming (~50ms) via WebSockets.
@@ -251,3 +252,6 @@ Using parts of the library without creating a full player should also be fairly 
 The JSMpeg version currently living in this repo is a complete rewrite of the original jsmpeg library that was just able to decode raw mpeg1video. If you're looking for the old version, see the [v0.2 tag](https://github.com/phoboslab/jsmpeg/releases/tag/v0.2).
 
 
+=======
+# SAEWOOM
+>>>>>>> abe48dbc1424175890e9dc44529c985a72531b8b
